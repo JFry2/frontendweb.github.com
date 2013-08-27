@@ -1,2 +1,15 @@
+body {
+  background-color:#3377ee;
+}
 p {
+  style:italic;
+}
+#first {
+  background-color:#333888;
+}
+.table {
+  background-color:#229911;
+}
+tr th th {
+  style:bold;
 }
