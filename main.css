@@ -14,3 +14,7 @@ tr th th {
   font-size:50px;
   background-color:#ff0000;
 }
+img.medium {
+	width:300px;
+	height:200px;
+}
