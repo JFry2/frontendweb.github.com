@@ -2,14 +2,15 @@ body {
   background-color:#3377ee;
 }
 p {
-  style:italic;
+  font-style:italic;
 }
 #first {
-  background-color:#333888;
+  font-family:Verdana;
 }
 .table {
-  background-color:#229911;
+  font-family:Impact;
 }
 tr th th {
-  style:bold;
+  font-size:50px;
+  background-color:#ff0000;
 }
